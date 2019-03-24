@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+
+  ola : string = "oi oi oi"
 }
